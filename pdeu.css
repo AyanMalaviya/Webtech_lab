@@ -11,16 +11,16 @@ body {
 }
 
 header {
-    background-color: #00264d;
+    background: #00264d;
     color: #fff;
-    padding: 10px 30px;
+    padding: 50px 30px;
     display: flex;
     align-items: center;
     justify-content:space-evenly;
 }
 
 header img {
-    height: 60px;
+    height: 100px;
 }
 
 nav ul {
@@ -33,7 +33,7 @@ nav a {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    transition: color 0.3s;
+
 }
 
 nav a:hover {
